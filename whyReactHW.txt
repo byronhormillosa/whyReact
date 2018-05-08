@@ -1,0 +1,30 @@
+#### Exercises
+>In your own words, explain single-page applications and progressive web apps.
+
+A: 
+
+Single-page web applications interact with the user by dynamically re-writing the current page instead of navigating and loading to a different page from a server. This method makes the user experience seamless, gives the feel of a desktop application.
+
+Progressive web apps combine the web and mobile application experience. These require no installation and can be used in a browser tab. Once a user finds it, the web app can be immediately be used. It is designed to be responsive, meaning it can be compatible with different devices.    
+
+>Either from your research or by inspecting popular sites you frequent (using the Chrome DevTools), give some real-world examples of applications built with React and Angular.
+
+A:
+
+React - Airbnb, Instagram, Dropbox, Imgur, Bleacher Report, Paypal, OkCupid, Postmates, Reddit, CodeAcademy
+Angular - Microsoft office support, Microsoft Flow, USPS Tracking, WeChat for Web, Google AdWords, Google Pay
+
+>Write a summary of the benefits of React vs. Angular. Then ask your mentor about the current state of web development, and ask questions about how they use these two popular technologies in their work.
+
+A:
+
+Angular  
+- Detailed documentation.
+- Dependency injection of the features related to the components with modules and modularity in general. 
+- Modularity
+- Ease of using components
+React 
+- Easy to learn. No need to learn typescript
+- Virtual DOM allows arranging documents in HTML format into a tree from which is better acceptable by web browsers while parsing different elements of the web app.
+- Easy version migration
+- High level of flexibility and maximum of responsiveness.
